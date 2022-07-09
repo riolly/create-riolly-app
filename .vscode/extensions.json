@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "Orta.vscode-jest",
+    "wix.vscode-import-cost",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    "mhutchie.git-graph"
+  ]
+}
